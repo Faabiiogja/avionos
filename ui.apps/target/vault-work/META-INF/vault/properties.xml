@@ -4,7 +4,7 @@
 <comment>avionos - UI apps</comment>
 <entry key="allowIndexDefinitions">false</entry>
 <entry key="dependencies-locations">adobe/cq60:core.wcm.components.content:2.17.12=maven:com.adobe.cq:core.wcm.components.content:2.17.12:zip,adobe/cq60:core.wcm.components.config:2.17.12=maven:com.adobe.cq:core.wcm.components.config:2.17.12:zip</entry>
-<entry key="created">2022-01-26T02:52:51.228Z</entry>
+<entry key="created">2022-01-26T05:55:31.659Z</entry>
 <entry key="groupId">com.avionos</entry>
 <entry key="description">UI apps package for avionos</entry>
 <entry key="version">1.0.0-SNAPSHOT</entry>

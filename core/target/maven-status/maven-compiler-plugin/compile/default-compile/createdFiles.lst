@@ -1,6 +1,7 @@
 com\avionos\core\schedulers\package-info.class
 com\avionos\core\schedulers\SimpleScheduledTask$Config.class
 com\avionos\core\models\HelloWorldModel.class
+com\avionos\core\models\MainBannerModel.class
 com\avionos\core\models\package-info.class
 com\avionos\core\servlets\package-info.class
 com\avionos\core\listeners\SimpleResourceListener.class

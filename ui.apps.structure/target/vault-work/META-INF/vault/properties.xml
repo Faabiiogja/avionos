@@ -4,7 +4,7 @@
 <comment>avionos - Repository Structure Package</comment>
 <entry key="cloudManagerTarget">none</entry>
 <entry key="allowIndexDefinitions">false</entry>
-<entry key="created">2022-01-26T02:50:46.778Z</entry>
+<entry key="created">2022-01-26T05:55:31.943Z</entry>
 <entry key="groupId">com.avionos</entry>
 <entry key="name">avionos.ui.apps.structure</entry>
 <entry key="description">Empty package that defines the structure of the Adobe Experience Manager repository the Code packages in this project deploy into.
