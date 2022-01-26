@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/avionos/clientlibs"/>
+    <filter root="/apps/avionos/components"/>
+    <filter root="/apps/avionos/i18n"/>
+</workspaceFilter>

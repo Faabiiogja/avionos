@@ -1,0 +1,4 @@
+com\avionos\it\tests\CreatePageIT.class
+com\avionos\it\tests\GetPageIT.class
+com\avionos\it\tests\PublishPageValidationIT.class
+com\avionos\it\tests\HtmlUnitClient.class

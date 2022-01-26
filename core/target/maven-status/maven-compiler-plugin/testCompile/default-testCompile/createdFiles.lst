@@ -1,0 +1,7 @@
+com\avionos\core\schedulers\SimpleScheduledTaskTest.class
+com\avionos\core\servlets\SimpleServletTest.class
+com\avionos\core\listeners\SimpleResourceListenerTest.class
+com\avionos\core\models\HelloWorldModelTest.class
+com\avionos\core\filters\LoggingFilterTest.class
+com\avionos\core\testcontext\AppAemContext.class
+com\avionos\core\testcontext\AppAemContext$1.class
