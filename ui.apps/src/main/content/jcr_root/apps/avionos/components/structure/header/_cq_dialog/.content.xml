@@ -11,11 +11,11 @@
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="granite/ui/components/coral/foundation/container">
                 <items jcr:primaryType="nt:unstructured">
-                   <title-main
+                    <text
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
-                        fieldLabel="Title for main banner"
-                        name="./title"/>
+                        fieldLabel="Text"
+                        name="./text"/>
                 </items>
             </column>
         </items>

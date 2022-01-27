@@ -16,6 +16,7 @@ defaultInjectionStrategy = DefaultInjectionStrategy.OPTIONAL
 public class MainBannerModel {
 
 
+
     @ValueMapValue
     private String text;
 
